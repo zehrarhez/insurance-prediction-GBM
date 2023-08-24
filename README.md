@@ -1,6 +1,6 @@
 ## INSURANCE AMOUNT PREDICTION PROJECT
 
-<img src= "https://www.google.com/url?sa=i&url=http%3A%2F%2Fpng-po.com%2Fen%2Fitem%2Fhow-to-choose-your-medical-insurance%2F&psig=AOvVaw22fzD6DQvk3DkyZ2sFoKMO&ust=1693007214027000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCL27699oADFQAAAAAdAAAAABAE" alt="insurance" width=500/>
+<img src= "https://cdn-icons-png.flaticon.com/512/2300/2300438.png" alt="insurance" width=500/>
  
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
