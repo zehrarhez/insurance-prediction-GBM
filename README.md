@@ -111,11 +111,12 @@ Project Link: [Insurance Amount Prediction Project](https://github.com/zehrarhez
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Supervised and Unsupervised ML](https://www.ibm.com/blog/supervised-vs-unsupervised-learning/)
-* [Hyperparameter Tuning](https://www.geeksforgeeks.org/hyperparameter-tuning/)
+* [Exploratory Data Analysis](https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/)
 * [Preprocessing the Data](https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/)
-* [Preprocessing the Data](https://medium.com/almabetter/data-preprocessing-techniques-6ea145684812)
-* [Flask](https://flask.palletsprojects.com/en/2.3.x/)
+* [Cross Validation](https://scikit-learn.org/stable/modules/cross_validation.html)
+* [Hyperparameter Tuning](https://www.geeksforgeeks.org/hyperparameter-tuning/)
+* [Grid Search & Randomized Search](https://www.geeksforgeeks.org/comparing-randomized-search-and-grid-search-for-hyperparameter-estimation-in-scikit-learn/)
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
