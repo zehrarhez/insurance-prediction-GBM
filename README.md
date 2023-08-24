@@ -16,7 +16,6 @@
 <body>
   <div class="image-container">
       <img src="https://cdn-icons-png.flaticon.com/512/2300/2300438.png" alt="insurance">
-
   </div>
 </body>
 </html>
