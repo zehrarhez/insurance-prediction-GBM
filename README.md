@@ -1,13 +1,9 @@
 ## INSURANCE AMOUNT PREDICTION PROJECT
+<center>
+  <img src="https://cdn-icons-png.flaticon.com/512/2300/2300438.png" alt="insurance" width="250">
+</center>
 
 
-<table style="width: 100%; height: 100vh;">
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="[RESİM_URLSİ](https://cdn-icons-png.flaticon.com/512/2300/2300438.png)" alt="insurance">
-    </td>
-  </tr>
-</table>
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
