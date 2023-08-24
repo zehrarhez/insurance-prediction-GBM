@@ -1,7 +1,16 @@
 ## INSURANCE AMOUNT PREDICTION PROJECT
-<center>
+
+<div class="image-container">
   <img src="https://cdn-icons-png.flaticon.com/512/2300/2300438.png" alt="insurance" width="250">
-</center>
+</div>
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Görüntü yüksekliği kadar veya gerektiği kadar ayarlayın */
+}
+
+
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
