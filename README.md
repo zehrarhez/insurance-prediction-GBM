@@ -9,7 +9,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh; /* Görüntü yüksekliği kadar veya gerektiği kadar ayarlayın */
+      height: 50vh; /* Görüntü yüksekliği kadar veya gerektiği kadar ayarlayın */
     }
   </style>
 </head>
