@@ -74,7 +74,7 @@ First, you need to have some libraries and packages to run the app. You should i
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Explotary Data Analysis of the Data
+- [ ] Exploratory Data Analysis of the Data
 - [ ] Preprocessing on the Data
 - [ ] Deciding the Model by using Cross Validation
 - [ ] Training the Best Model
