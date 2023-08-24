@@ -1,6 +1,6 @@
 ## INSURANCE AMOUNT PREDICTION PROJECT
 
-<img src= "https://cdn-icons-png.flaticon.com/512/2300/2300438.png" alt="insurance" width=300/>
+<img src= "https://cdn-icons-png.flaticon.com/512/2300/2300438.png" alt="insurance" width=200/>
  
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
