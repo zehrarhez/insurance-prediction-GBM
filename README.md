@@ -1,6 +1,6 @@
 ## INSURANCE AMOUNT PREDICTION PROJECT
 
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.insurancebusinessmag.com%2Fus%2Fguides%2F55-insurance-terms-you-should-know-about-428387.aspx&psig=AOvVaw1Q_RflKM_xBE3FSL69P_LW&ust=1693006927490000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjvira89oADFQAAAAAdAAAAABAJ" alt="insurance" width=500/>
+<img src= "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdrtejasdharia.com%2Fwp-content%2Fuploads%2Fhealth-insurance-png-5.png&tbnid=8yg_V-OVPmEQiM&vet=12ahUKEwjZ_oK-vfaAAxWMgP0HHXgFDNQQMygZegUIARCIAQ..i&imgrefurl=https%3A%2F%2Fdrtejasdharia.com%2Finsurance%2Fhealth-insurance-png-5%2F&docid=aR0HlNPwZwjbcM&w=653&h=378&q=health%20insurance%20images%20png&client=opera-gx&ved=2ahUKEwjZ_oK-vfaAAxWMgP0HHXgFDNQQMygZegUIARCIAQ" alt="insurance" width=500/>
  
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
