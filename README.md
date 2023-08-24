@@ -1,6 +1,6 @@
 ## INSURANCE AMOUNT PREDICTION PROJECT
 
-<img src= "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdrtejasdharia.com%2Fwp-content%2Fuploads%2Fhealth-insurance-png-5.png&tbnid=8yg_V-OVPmEQiM&vet=12ahUKEwjZ_oK-vfaAAxWMgP0HHXgFDNQQMygZegUIARCIAQ..i&imgrefurl=https%3A%2F%2Fdrtejasdharia.com%2Finsurance%2Fhealth-insurance-png-5%2F&docid=aR0HlNPwZwjbcM&w=653&h=378&q=health%20insurance%20images%20png&client=opera-gx&ved=2ahUKEwjZ_oK-vfaAAxWMgP0HHXgFDNQQMygZegUIARCIAQ" alt="insurance" width=500/>
+<img src= "https://www.google.com/url?sa=i&url=http%3A%2F%2Fpng-po.com%2Fen%2Fitem%2Fhow-to-choose-your-medical-insurance%2F&psig=AOvVaw22fzD6DQvk3DkyZ2sFoKMO&ust=1693007214027000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCL27699oADFQAAAAAdAAAAABAE.png" alt="insurance" width=500/>
  
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
