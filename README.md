@@ -1,4 +1,6 @@
 ## INSURANCE AMOUNT PREDICTION PROJECT
+
+<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.insurancebusinessmag.com%2Fus%2Fguides%2F55-insurance-terms-you-should-know-about-428387.aspx&psig=AOvVaw1Q_RflKM_xBE3FSL69P_LW&ust=1693006927490000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjvira89oADFQAAAAAdAAAAABAJ" alt="insurance" width=500/>
  
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
