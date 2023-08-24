@@ -61,11 +61,10 @@ First, you need to have some libraries and packages to run the app. You should i
   ```
 
 ### Installation
-
-1. Import the .csv file to use dataset
-   ```sh
-     insurance.csv
-   ```
+Import the .csv file to use dataset
+```sh
+insurance.csv
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
