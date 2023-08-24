@@ -1,24 +1,5 @@
 ## INSURANCE AMOUNT PREDICTION PROJECT
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Resim Ortalama</title>
-  <style>
-    .image-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 50vh; /* Görüntü yüksekliği kadar veya gerektiği kadar ayarlayın */
-    }
-  </style>
-</head>
-<body>
-  <div class="image-container">
-      <img src="https://cdn-icons-png.flaticon.com/512/2300/2300438.png" alt="insurance">
-  </div>
-</body>
-</html>
+<img src="https://cdn-icons-png.flaticon.com/512/2300/2300438.png" alt="insurance" width=250>
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
